@@ -14,7 +14,7 @@ The Official Community & Support server can be joined through this **[link](http
 
 Blacklist appeals and business inquiries can be sent to this email, **<liquiddiscordbot@gmail.com>**
 
-#### Final Note
+### Final Note
 
 Thanks,
     **- LIQUID Staff**
