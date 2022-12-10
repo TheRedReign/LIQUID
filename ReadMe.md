@@ -1,4 +1,4 @@
-# Documentation Page
+# LIQUID Documentation Page
 
 Hello! This is the official documentation for the Discord Bot **LIQUID**, created by RedReign.
 
@@ -13,6 +13,8 @@ The Official Community & Support server can be joined through this **[link](http
 ## Blacklist Appeals & Business Inquiries
 
 Blacklist appeals and business inquiries can be sent to this email, **<liquiddiscordbot@gmail.com>**
+
+#### Final Note
 
 Thanks,
     **- LIQUID Staff**
