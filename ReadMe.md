@@ -8,7 +8,7 @@ If you require a full command list, that can be found in **[this](https://github
 
 The Official Community & Support server can be joined through this **[link](https://discord.gg/jZbqmT8b5D)**.
 
-Blacklist appeals and business inquiries can be sent to this email, <liquiddiscordbot@gmail.com>
+Blacklist appeals and business inquiries can be sent to this email, **<liquiddiscordbot@gmail.com>**
 
 Thanks,
     **- LIQUID Staff**
