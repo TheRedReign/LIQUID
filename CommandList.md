@@ -3,95 +3,75 @@ Hello! Every category of commands (ie, Moderation, Information), will have their
 If you'd like to suggest a command, you can email RedReign (<liquiddiscordbot@gmail.com>), or go through LIQUID's Community & Support Server [here](https://discord.gg/jZbqmT8b5D).
 
 ## Moderation
-Ban {
+#### Ban
 
   **Options**: ("user", "reason"),
   
   **Correct Usage**: "/ban @user reason"
   
-}
-  
-Kick {
+#### Kick
 
   **Options**: ("user"),
   
   **Correct Usage**: "/kick @user"
   
-}
-  
-Warn {
+#### Warn
 
   **Options**: ("user", "remove"),
   
   **Correct Usage**: ("/warn @user true", "/warn @user false")
   
-}
-  
-Warns {
+#### Warns
 
   **Options**: ("user") 
   
   **Correct Usage**: ("/warns @user")
   
-}
-  
 ## Information
-Help {
+#### Help
 
  **Options**: ("mod", "general", "info"),
  
  **Correct Usage**: ("/help mod" ; "/help general" ; "/help info")
- 
-}
   
-Info {
-Options: ("user", "none"),
+#### Info 
+**Options**: ("user", "none"),
 
-Correct Usage: ("/info @user", "/info"),
+**Correct Usage**: ("/info @user", "/info"),
 
-Notes: No option will display guild information.
-
-}
+**Notes**: No option will display guild information.
   
-Stats {
+#### Stats 
 
-Options: ("none"),
+**Options**: ("none"),
 
-Correct Usage: ("/stats"),
+**Correct Usage**: ("/stats"),
 
-Notes: Displays some information about LIQUID.
-
-}
+**Notes**: Displays some information about LIQUID.
   
-Ping {
+#### Ping 
 
-Options: ("none"),
+**Options**: ("none"),
 
-Correct Usage: ("/ping"),
+**Correct Usage**: ("/ping"),
 
-Notes: Displays Heartbeat & Client latency information for LIQUID.
-
-}
+**Notes**: Displays Heartbeat & Client latency information for LIQUID.
   
-Creator {
+#### Creator 
 
-Options: ("none")
+**Options**: ("none")
 
-Correct Usage: ("/creator")
+**Correct Usage**: ("/creator")
 
-Notes: Displays creators information.
-
-}
+**Notes**: Displays creators information.
   
-Bot Rules {
+#### Bot Rules 
 
-Options: ("none")
+**Options**: ("none")
 
-Correct Usage: ("/bot-rules")
+**Correct Usage**: ("/bot-rules")
 
-Notes: Displays LIQUID's rules. These are **not** the guild rules.
-
-}
+**Notes**: Displays LIQUID's rules. These are **not** the guild rules.
   
 ## Fun
 Coming Soon!
