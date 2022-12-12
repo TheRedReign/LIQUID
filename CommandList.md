@@ -12,32 +12,86 @@ Ban {
 }
   
 Kick {
+
   **Options**: ("user"),
+  
   **Correct Usage**: "/kick @user"
+  
 }
   
 Warn {
+
   **Options**: ("user", "remove"),
+  
   **Correct Usage**: ("/warn @user true", "/warn @user false")
+  
 }
   
 Warns {
+
   **Options**: ("user") 
+  
   **Correct Usage**: ("/warns @user")
+  
 }
   
 ## Information
-Help // Options: mod, general, info // Correct Usage: "/help mod" ; "/help general" ; "/help info"
+Help {
+
+ **Options**: ("mod", "general", "info"),
+ 
+ **Correct Usage**: ("/help mod" ; "/help general" ; "/help info")
+ 
+}
   
-Info // Options: user, none // Correct Usage: "/info @user" ; "/info" // Notes: No option will display guild information.
+Info {
+Options: ("user", "none"),
+
+Correct Usage: ("/info @user", "/info"),
+
+Notes: No option will display guild information.
+
+}
   
-Stats // Options: none // Correct Usage: "/stats" // Notes: Displays some information about LIQUID.
+Stats {
+
+Options: ("none"),
+
+Correct Usage: ("/stats"),
+
+Notes: Displays some information about LIQUID.
+
+}
   
-Ping // Options: none // Correct Usage: "/ping" // Notes: Displays Heartbeat & Client latency information for LIQUID.
+Ping {
+
+Options: ("none"),
+
+Correct Usage: ("/ping"),
+
+Notes: Displays Heartbeat & Client latency information for LIQUID.
+
+}
   
-Creator // Options: none // Correct Usage: "/creator" // Notes: Displays creators information.
+Creator {
+
+Options: ("none")
+
+Correct Usage: ("/creator")
+
+Notes: Displays creators information.
+
+}
   
-Bot Rules // Options: none // Correct Usage: "/bot-rules" // Notes: Displays LIQUID's rules. These are **not** the guild rules.
+Bot Rules {
+
+Options: ("none")
+
+Correct Usage: ("/bot-rules")
+
+Notes: Displays LIQUID's rules. These are **not** the guild rules.
+
+}
   
 ## Fun
 Coming Soon!
