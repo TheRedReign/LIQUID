@@ -1,6 +1,6 @@
 # LIQUID Official Command List
 Hello! Every category of commands (ie, Moderation, Information), will have their own little section.
-If you'd like to suggest a command, you can email RedReign [here](liquiddiscordbot@gmail.com), or through the Community & Support Server [here](https://discord.gg/jZbqmT8b5D).
+If you'd like to suggest a command, you can email RedReign (<liquiddiscordbot@gmail.com>), or through the Community & Support Server [here](https://discord.gg/jZbqmT8b5D).
 
 ## Moderation
 Ban {
