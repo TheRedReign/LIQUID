@@ -3,45 +3,45 @@ Hello! Every category of commands (ie, Moderation, Information), will have their
 If you'd like to suggest a command, you can email RedReign (<liquiddiscordbot@gmail.com>), or go through LIQUID's Community & Support Server by clicking [here](https://discord.gg/jZbqmT8b5D).
 
 ## Moderation
-#### Ban
+### Ban
 
   **Options**: ("user", "reason"),
   
   **Correct Usage**: "/ban @user reason"
   
-#### Kick
+### Kick
 
   **Options**: ("user"),
   
   **Correct Usage**: "/kick @user"
   
-#### Warn
+### Warn
 
   **Options**: ("user", "remove"),
   
   **Correct Usage**: ("/warn @user true", "/warn @user false")
   
-#### Warns
+### Warns
 
   **Options**: ("user") 
   
   **Correct Usage**: ("/warns @user")
   
 ## Information
-#### Help
+### Help
 
  **Options**: ("mod", "general", "info"),
  
  **Correct Usage**: ("/help mod" ; "/help general" ; "/help info")
   
-#### Info 
+### Info 
 **Options**: ("user", "none"),
 
 **Correct Usage**: ("/info @user", "/info"),
 
 **Notes**: No option will display guild information.
   
-#### Stats 
+### Stats 
 
 **Options**: ("none"),
 
@@ -49,7 +49,7 @@ If you'd like to suggest a command, you can email RedReign (<liquiddiscordbot@gm
 
 **Notes**: Displays some information about LIQUID.
   
-#### Ping 
+### Ping 
 
 **Options**: ("none"),
 
@@ -57,7 +57,7 @@ If you'd like to suggest a command, you can email RedReign (<liquiddiscordbot@gm
 
 **Notes**: Displays Heartbeat & Client latency information for LIQUID.
   
-#### Creator 
+### Creator 
 
 **Options**: ("none")
 
@@ -65,7 +65,7 @@ If you'd like to suggest a command, you can email RedReign (<liquiddiscordbot@gm
 
 **Notes**: Displays creators information.
   
-#### Bot Rules 
+### Bot Rules 
 
 **Options**: ("none")
 
