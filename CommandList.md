@@ -4,23 +4,23 @@ If you'd like to suggest a command, you can email RedReign [here](liquiddiscordb
 
 ## Moderation
 Ban {
-  Options: ("user", "reason"),
-  Correct Usage: "/ban @user reason"
+  **Options**: ("user", "reason"),
+  **Correct Usage**: "/ban @user reason"
 }
   
 Kick {
-  Options: ("user"),
-  Correct Usage: "/kick @user"
+  **Options**: ("user"),
+  **Correct Usage**: "/kick @user"
 }
   
 Warn {
-  Options: ("user", "remove"),
-  Correct Usage: ("/warn @user true", "/warn @user false")
+  **Options**: ("user", "remove"),
+  **Correct Usage**: ("/warn @user true", "/warn @user false")
 }
   
 Warns {
-  Options: ("user") 
-  Correct Usage: ("/warns @user")
+  **Options**: ("user") 
+  **Correct Usage**: ("/warns @user")
 }
   
 ## Information
