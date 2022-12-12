@@ -1,6 +1,6 @@
 # LIQUID Official Command List
 Hello! Every category of commands (ie, Moderation, Information), will have their own little section.
-If you'd like to suggest a command, you can email the LIQUID Support Team (<liquiddiscordbot@gmail.com>), or go through LIQUID's Community & Support Server by clicking [here](https://discord.gg/jZbqmT8b5D).
+If you'd like to suggest a command, you can email the LIQUID Support Team (<liquiddiscordbot@gmail.com>), or go through LIQUID's [Community & Support Server](https://discord.gg/jZbqmT8b5D).
 
 ## Moderation
 ### Ban
