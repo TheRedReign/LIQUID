@@ -4,8 +4,11 @@ If you'd like to suggest a command, you can email RedReign [here](liquiddiscordb
 
 ## Moderation
 Ban {
+
   **Options**: ("user", "reason"),
+  
   **Correct Usage**: "/ban @user reason"
+  
 }
   
 Kick {
