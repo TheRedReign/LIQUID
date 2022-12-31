@@ -52,7 +52,7 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
 
 **Correct Usage**: ("/purge 5")
 
-**Notes**: Above 20 will use a *bulk delete* method that cannot delete messages over 2 weeks old. Delete 20 at a time to avoid this issue with older messages.
+**Notes**: Above 20 will use a *bulk delete* method that cannot delete messages over 2 weeks old. Delete 20 at a time to avoid this issue.
 
 ### Mute
 
