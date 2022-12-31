@@ -2,12 +2,21 @@
 Hello! Every category of commands (ie, Moderation, Information), will have their own little section.
 If you'd like to suggest a command, you can email the LIQUID Support Team (<liquiddiscordbot@gmail.com>), or go through LIQUID's [Community & Support Server](https://discord.gg/jZbqmT8b5D).
 
+## Server Administration
+### Set
+
+**Options**: ("channel", "channel", "channel", "channel")
+
+**Correct Usage**: ("/set #channel")
+
+**Notes**: This can set 4 distinct channels for various purposes (run in Discord for better information).
+
 ## Moderation
 ### Ban
 
-  **Options**: ("user", "reason"),
+**Options**: ("user", "reason"),
   
-  **Correct Usage**: "/ban @user reason"
+**Correct Usage**: "/ban @user reason"
   
 ### Kick
 
@@ -17,38 +26,49 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
   
 ### Warn
 
-  **Options**: ("user", "remove"),
+**Options**: ("user"),
   
-  **Correct Usage**: ("/warn @user true", "/warn @user false")
+**Correct Usage**: ("/warn @user", "/warn @user")
   
 ### Warns
 
-  **Options**: ("user") 
+**Options**: ("user") 
   
-  **Correct Usage**: ("/warns @user")
+**Correct Usage**: ("/warns @user")
+  
+**notes**: This is coming soon!
+
+### Slow
+
+**Options**: ("seconds")
+
+**Correct Usage**: ("/slow 5")
+
+**Notes**: This sets a channel's slowmode in seconds (max is 21600 seconds, or 6 hours)
+
+### Purge
+
+**Options**: ("number")
+
+**Correct Usage**: ("/purge 5")
+
+**Notes**: Above 20 will use a *bulk delete* method that cannot delete messages over 2 weeks old. Delete 20 at a time to avoid this issue with older messages.
+
+### Mute
+
+**Options**: ("user", "minutes")
+
+**Correct Usage**: ("/mute @user 5")
+
+**Notes**: This uses Discord's built-in timeout functionality.
   
 ## Information
 ### Help
 
- **Options**: ("mod", "general", "info"),
- 
- **Correct Usage**: ("/help mod" ; "/help general" ; "/help info")
-  
-### Info 
-**Options**: ("user", "none"),
-
-**Correct Usage**: ("/info @user", "/info"),
-
-**Notes**: No option will display guild information.
-  
-### Stats 
-
 **Options**: ("none"),
+ 
+**Correct Usage**: ("/help")
 
-**Correct Usage**: ("/stats"),
-
-**Notes**: Displays some information about LIQUID.
-  
 ### Ping 
 
 **Options**: ("none"),
@@ -56,22 +76,10 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
 **Correct Usage**: ("/ping"),
 
 **Notes**: Displays Heartbeat & Client latency information for LIQUID.
-  
-### Creator 
 
-**Options**: ("none")
-
-**Correct Usage**: ("/creator")
-
-**Notes**: Displays creators information.
-  
-### Bot Rules 
-
-**Options**: ("none")
-
-**Correct Usage**: ("/bot-rules")
-
-**Notes**: Displays LIQUID's rules. These are **not** the guild rules.
-  
 ## Fun
-Coming Soon!
+### Coin Flip
+
+**Options**: ("none")
+
+**Correct Usage**: ("/coinflip")
