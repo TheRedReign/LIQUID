@@ -4,7 +4,7 @@ Hello! This is the official documentation for the Discord Bot **LIQUID**, create
 
 First, to find out some of my basic commands you can run /help and select a category from the list.
 
-If you require a full command list, that can be found in **[this](https://github.com/TheRedReign/LIQUID/blob/main/Commands%20List.text)** repo. 
+If you require a full command list, that can be found in **[CommandList.md](https://github.com/TheRedReign/LIQUID/blob/main/CommandList.md)**. 
 
 ## Community & Support Server Invite
 
