@@ -14,19 +14,19 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
 ## Moderation
 ### Ban
 
-**Options**: ("user", "reason"),
+**Options**: ("user", "reason")
   
 **Correct Usage**: "/ban @user reason"
   
 ### Kick
 
-  **Options**: ("user"),
+  **Options**: ("user")
   
   **Correct Usage**: "/kick @user"
   
 ### Warn
 
-**Options**: ("user"),
+**Options**: ("user")
   
 **Correct Usage**: ("/warn @user", "/warn @user")
   
@@ -65,15 +65,15 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
 ## Information
 ### Help
 
-**Options**: ("none"),
+**Options**: ("none")
  
 **Correct Usage**: ("/help")
 
 ### Ping 
 
-**Options**: ("none"),
+**Options**: ("none")
 
-**Correct Usage**: ("/ping"),
+**Correct Usage**: ("/ping")
 
 **Notes**: Displays Heartbeat & Client latency information for LIQUID.
 
