@@ -83,3 +83,9 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
 **Options**: ("none")
 
 **Correct Usage**: ("/coinflip")
+
+### Icon
+
+**Options**: ("user")
+
+**Correct Usage**: ("/icon @user", "/icon")
