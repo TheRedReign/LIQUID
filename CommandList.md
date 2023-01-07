@@ -77,6 +77,12 @@ If you'd like to suggest a command, you can email the LIQUID Support Team (<liqu
 
 **Notes**: Displays Heartbeat & Client latency information for LIQUID.
 
+### Weather
+
+**Options**: ("latitude", "longitude")
+
+**Correct Usage**: ("/weather latitude longitude")
+
 ## Fun
 ### Coin Flip
 
